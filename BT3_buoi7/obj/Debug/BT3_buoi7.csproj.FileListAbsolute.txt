@@ -1,0 +1,9 @@
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi7\BT3_buoi7\bin\Debug\BT3_buoi7.exe.config
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi7\BT3_buoi7\bin\Debug\BT3_buoi7.exe
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi7\BT3_buoi7\bin\Debug\BT3_buoi7.pdb
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi7\BT3_buoi7\obj\Debug\BT3_buoi7.csprojResolveAssemblyReference.cache
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi7\BT3_buoi7\obj\Debug\BT3_buoi7.exe
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi7\BT3_buoi7\obj\Debug\BT3_buoi7.pdb
+C:\Users\Chu Beo\Desktop\New folder\BT3_buoi7\bin\Debug\BT3_buoi7.exe.config
+C:\Users\Chu Beo\Desktop\New folder\BT3_buoi7\obj\Debug\BT3_buoi7.exe
+C:\Users\Chu Beo\Desktop\New folder\BT3_buoi7\obj\Debug\BT3_buoi7.pdb
